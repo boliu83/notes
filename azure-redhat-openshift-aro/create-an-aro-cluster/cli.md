@@ -4,13 +4,15 @@ description: Create new ARO cluster from CLI
 
 # CLI
 
-1. Get pull secret from redhat
+1. Get pull secret from redhat\
+
 2. Determine following parameters for your cluster
    * Location
    * Resource Group Name
    * Openshift Cluster Name
    * &#x20;VNet and subnets name\
-     2 subnets are required for masters and workers
+     2 subnets are required for masters and workers\
+
 3. Create your cluster
 
 ```
