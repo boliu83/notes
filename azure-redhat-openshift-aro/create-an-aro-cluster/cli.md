@@ -5,6 +5,8 @@ description: Create new ARO cluster from CLI
 # CLI
 
 1. Get pull secret from Redhat [https://cloud.redhat.com/openshift/install/pull-secret](https://cloud.redhat.com/openshift/install/pull-secret) (account registration required)\
+   \
+   Save the pull secret to a local file which will be used later. \
 
 2. Determine following parameters for your cluster
    * Location
